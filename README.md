@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 I am Oguzhan
 
 ## 💫 About Me:
 
