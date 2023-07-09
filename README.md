@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 🔭 I'm currently working on Android and React & React Native projects.
 - 🌱 I’m currently learning React.js
